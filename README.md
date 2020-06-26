@@ -1,2 +1,2 @@
-# Snake-Game
-A simple game using HTML and JS
+# HTML-Game
+Simple games using HTML and JS
